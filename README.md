@@ -11,8 +11,8 @@ Vous devrez fournir à l’équipe marketing une description actionable de votre
 Les données
 Pour cette mission, Olist vous fournit une base de données anonymisée comportant des informations sur l’historique de commandes, les produits achetés, les commentaires de satisfaction, et la localisation des clients depuis janvier 2017.
 
-##Mission
-Votre mission est d’aider les équipes d’Olist à comprendre les différents types d'utilisateurs. Vous utiliserez donc des méthodes non supervisées pour regrouper des clients de profils similaires. Ces catégories pourront être utilisées par l’équipe Marketing pour mieux communiquer.
+Mission
+est d’aider les équipes d’Olist à comprendre les différents types d'utilisateurs. Vous utiliserez donc des méthodes non supervisées pour regrouper des clients de profils similaires. Ces catégories pourront être utilisées par l’équipe Marketing pour mieux communiquer.
 
 Vous créez donc un notebook et démarrez votre travail d’analyse exploratoire.
 Après quelques premières analyses, vous vous rendez compte qu’Olist ne vous a pas fourni beaucoup de données ; vous enquêtez donc auprès de l’entreprise pour obtenir quelques informations complémentaires, et vérifier que vous avez bien compris la mission. Voici sa réponse.
@@ -23,7 +23,7 @@ un notebook avec des essais des différentes approches de modélisation ;
 un notebook de simulation pour déterminer la fréquence nécessaire de mise à jour du modèle de segmentation, afin que celui-ci reste pertinent ; 
 une présentation pour un collègue afin d’obtenir ses retours sur votre approche.
 
-##Compétences évaluées
+Compétences évaluées
 Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier
 Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé
 Évaluer les performances d’un modèle d'apprentissage non supervisé

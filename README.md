@@ -49,7 +49,7 @@ Veuillez consulter mon analyse complète dans [mon Jupyter Notebook](./Notebook_
 
 Ce travail a été réalisé lors du projet 5 de ma formation Centrale Supèlec et OpenClassrooms de Data Scientist.
 ## Compétences évaluées
--Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer.
--Évaluer les performances d’un modèle d'apprentissage non supervisé.
--Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé.
--Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier.
+- Adapter les hyperparamètres d'un algorithme non supervisé afin de l'améliorer.
+- Évaluer les performances d’un modèle d'apprentissage non supervisé.
+- Transformer les variables pertinentes d'un modèle d'apprentissage non supervisé.
+- Mettre en place le modèle d'apprentissage non supervisé adapté au problème métier.

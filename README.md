@@ -22,13 +22,13 @@ Mise en place d'un modèle d'apprentissage non supervisé pour réaliser une seg
 Création d'un pipeline de nettoyage des données et d'identification des features importantes
 Création de nouvelles features
 Essais de clustering par différents algorithmes:
--Algorithme K-means 
--Agglomerative clustering 
--Clustering par DBSCAN 
--Segmentation RFM
--Analyse des résultats et explicabilité
--Optimisation des hyperparamètres
--Visualisation des données
+- Algorithme K-means 
+- Agglomerative clustering 
+- Clustering par DBSCAN 
+- Segmentation RFM
+- Analyse des résultats et explicabilité
+- Optimisation des hyperparamètres
+- Visualisation des données
 
 ## Profils des clients
 <img src="img/clients.png">

@@ -42,9 +42,7 @@ Pour déterminer le moment où les clients changent de cluster, nous allons it�
 Segmentation RFM avec un K-means à renouveler tous les 6 mois. 
 
 ## Pour plus d'informations
-
 Veuillez consulter mon analyse complète dans [mon Jupyter Notebook](./Notebook_essais.ipynb) ou ma [présentation](./Presentation.pdf). Pour toute question supplémentaire, veuillez contacter avec moi à gulsumkapanoglu@gmail.com.
-
 
 
 Ce travail a été réalisé lors du projet 5 de ma formation Centrale Supèlec et OpenClassrooms de Data Scientist.
